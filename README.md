@@ -11,11 +11,10 @@ The paper applies a Bayesian neural network ensemble method for regression of pa
 - [anchor_loss.py](https://github.com/nailimixaM/iclr-2021-baynne/blob/main/anchor_loss.py): anchor loss
 - [RMSE.py](https://github.com/nailimixaM/iclr-2021-baynne/blob/main/RMSE.py): root mean square error loss
 
-# Training data sets
+# Data sets 
+These are too large for github, so should be downloaded from the following links:
 - [X_y_full.npz](https://drive.google.com/file/d/1001fCJ6gNCw6O7DW4MyQrsroKiGcLjyo/view?usp=sharing) (~11 GB)
 - [X_y.npz](https://drive.google.com/file/d/1_ECkIObb3mNL7BMmYjO0MwAyBDnof_ka/view?usp=sharing) (~2 GB, for debugging purposes)
-
-# Real experiments data set
 - [X_experiments.npz](https://drive.google.com/file/d/19HT2Fq4Az-6GlW3w87lM-ty6GdjGOvOR/view?usp=sharing) (~14 MB)
 
 # Basic usage
