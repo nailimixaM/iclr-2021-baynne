@@ -1,5 +1,5 @@
 # iclr-2021-baynne
-ICLR 2021 Deep Learning for Simulation workshop paper.
+ICLR 2021 Deep Learning for Simulation workshop paper: "Online parameter inference for the simulation of a Bunsen flame using heteroscedastic Bayesian neural network ensembles".
 
 # Summary
 The paper applies a Bayesian neural network ensemble method for regression of parameters of a flame edge model. The ensemble is trained on synthetic data and evaluated on real experiments of a Bunsen flame.    
